@@ -1,0 +1,11 @@
+Ejercicio: Sistema de Gestión de Empleados
+Diseña un sistema para gestionar empleados en una empresa. Debes crear las clases necesarias para representar a los empleados y a la empresa, y definir las relaciones adecuadas entre ellas.
+Requisitos:
+
+Cada empleado debe tener al menos los siguientes atributos: nombre, edad, cargo y salario.
+Debe haber una forma de calcular el salario neto de un empleado.
+Los empleados pueden pertenecer a diferentes departamentos dentro de la empresa.
+La empresa debe poder realizar operaciones como contratar nuevos empleados, despedir empleados y transferir empleados entre departamentos.
+Debe haber una forma de obtener la lista de todos los empleados de la empresa, así como la lista de empleados por departamento.
+
+Puedes utilizar el lenguaje de programación que prefieras (Python, Java, C++, etc.) y hacer uso de cualquier concepto adicional de POO que consideres necesario.
